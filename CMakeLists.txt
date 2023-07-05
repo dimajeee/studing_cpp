@@ -12,3 +12,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(test
     testing_path/main.cpp
 )
+
+#first lection ()
+add_executable(lection1
+    lections_cherepanov/semestr1/lection1/main.cpp
+)
